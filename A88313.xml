@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of all the victories, and successefull atchievements of the Parliaments fleet under the command of Col. Popham (lately deceased) Col. Blake, and Col. Deane, admiralls and generalls of the fleet, from the time they were impowred, which was 28 Feb. 1650. to this present.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88313</idno>
+            <idno type="STC">Wing L2383</idno>
+            <idno type="STC">Thomason 669.f.16[31]</idno>
+            <idno type="STC">ESTC R211404</idno>
+            <idno type="EEBO-CITATION">99870133</idno>
+            <idno type="PROQUEST">99870133</idno>
+            <idno type="VID">163187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163187)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of all the victories, and successefull atchievements of the Parliaments fleet under the command of Col. Popham (lately deceased) Col. Blake, and Col. Deane, admiralls and generalls of the fleet, from the time they were impowred, which was 28 Feb. 1650. to this present.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb. 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657 --  Early works to 1800.</term>
+               <term>Popham, Edward, 1610?-1651 --  Early works to 1800.</term>
+               <term>Deane, Richard, 1610-1653 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_victories">
+            <pb facs="tcp:163187:1" rendition="simple:additions"/>
+            <head>A Liſt of all the Victories, and ſucceſſefull Atchievements of the Parlia<g ref="char:EOLhyphen"/>ments Fleet, under the Command of Col. <hi>Popham</hi> (lately deceaſed) Col. <hi>Blake,</hi> and Col. <hi>Deane,</hi> Admiralls and Generalls of the Fleet, from the time they were impowred, which was 28 <hi>Feb.</hi> 1650. to this preſent.</head>
+            <p>
+               <figure/>
+            </p>
+            <list>
+               <item>1 <seg rend="decorInit">T</seg>He <hi>Sancta Maria,</hi> a Sugar Prize</item>
+               <item>2 The <hi>Crown</hi> a fly-boat of <hi>Haver<g ref="char:EOLhyphen"/>degrace</hi> in <hi>France,</hi> burthen 400. Tuns, 22 Guns, part laden with Corne.</item>
+               <item>3 A <hi>Galiot</hi> of <hi>Amſterdam</hi> laden with Corne at the <hi>Terceras.</hi>
+               </item>
+               <item>4 The <hi>Saltheap</hi> burden 400 Tunnes richly laden from <hi>Genoa</hi> bound in for <hi>Lisbone.</hi>
+               </item>
+               <item>5 The <hi>Armes</hi> of <hi>Amſterdam</hi> laden by a <hi>French</hi> man whom we tooke in her, comming out of <hi>Lisbone.</hi>
+               </item>
+               <item>6 The <hi>Caeſar</hi> of <hi>Rotterdam</hi> bound for <hi>Lisbone,</hi> and comming from <hi>
+                     <g ref="char:V">Ʋ</g>illa Roſin</hi> laden with corne.</item>
+               <item>7 The <hi>Chriſtopher</hi> of <hi>Rotterdam.</hi>
+               </item>
+               <item>8 A <hi>Ierſey</hi> Veſſel of ſome 50 Tuns, having about 50000. of <hi>Poor Iohn</hi> in her.</item>
+               <item>9 The King <hi>David</hi> of <hi>Rotterdam,</hi> and two other ſmall pinks.</item>
+               <item>10 A ſmal Carval with ſome decayed Pilchers in her.</item>
+               <item>11 The <hi>Fortune</hi> Frigot of <hi>Anchuyſen</hi> taken be<g ref="char:EOLhyphen"/>fore <hi>Cales,</hi> with <hi>French</hi> goods in her.</item>
+               <item>12 The <hi>Peter</hi> of <hi>Amſterdam,</hi> with 33 bailes of linnen cloath, and other goods.</item>
+               <item>13 On the beginning of <hi>March,</hi> 1650. <hi>Richard Thurſtons</hi> with the <hi>John Adventure,</hi> beat off a <hi>Jerſie</hi> Man of War, and defended three rich Ships richly laden.</item>
+               <item>14 A Ship laden with goods, and 3300 and odde peeces of eight taken by Captaine <hi>Pen,</hi> neare <hi>Cales.</hi>
+               </item>
+               <item>15 A Veſſel called <hi>the Golden Waggon,</hi> re-taken on the weſterne coaſts by Captaine <hi>Hall.</hi>
+               </item>
+               <item>16 A <hi>French</hi> Ship with goods taken by Cap<g ref="char:EOLhyphen"/>taine <hi>Hall.</hi>
+               </item>
+               <item>17 A ſhip taken from the <hi>Scots</hi> King on the North coaſt of <hi>Scotland,</hi> with ſome Gentlemen, and divers Commiſſions from their King, and two Cloakes with ſtars, and other baggage.</item>
+               <item>18 Divers Commiſſions, and Letters, and Pa<g ref="char:EOLhyphen"/>pers of diſcovery taken at <hi>Boſton,</hi> that came in a veſſel from <hi>Rotterdam.</hi>
+               </item>
+               <item>19 On 17 <hi>March,</hi> Mr. <hi>Michael Kerry, James Se<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly</hi> and others, brought away the <hi>Hope-well</hi> from <hi>Scilly</hi> to <hi>Mine-head.</hi>
+               </item>
+               <item>20 The 29 <hi>March,</hi> 1651. Captaine <hi>Brown-buſhel</hi> the great ſea Admirall, enemy to the Parliament of <hi>England</hi> was beheaded.</item>
+               <item>21 <hi>April</hi> 1. 1651. A ſhip taken near <hi>Haymouth</hi> four miles from <hi>Barwick,</hi> whither ſhe was chaſed, with Proviſions and Armes for the <hi>Scots</hi> King from <hi>Holland.</hi>
+               </item>
+               <item>22 A fleet of Ships ſeized on going to <hi>Fortugall,</hi> from ſome in <hi>Holland.</hi>
+               </item>
+               <item>23 Captaine <hi>Fenne</hi> beat a <hi>French</hi> man of War with 32 Guns, on the Coaſts of <hi>Spaine,</hi> and forced her a ground.</item>
+               <item>24 A <hi>French</hi> Man of War with 20 Guns taken by Captaine <hi>Penne:</hi>
+               </item>
+               <item>25 Two rich ſhips belonging to Merchants in St. <hi>Mallowes</hi> taken, with Merchandiſe of great value.</item>
+               <item>26 A ſhip taken neare <hi>Leeth</hi> in <hi>Scotland</hi> by the Preſident Friggot, laden with Wines, Salt, To<g ref="char:EOLhyphen"/>bacco, ſtrong Waters, and other lading; ſome con<g ref="char:EOLhyphen"/>ſiderable perſons of the <hi>Scots</hi> Kings party were in her.</item>
+               <item>27 A Sea Pirate belonging to the <hi>Iſle of Man</hi> ta<g ref="char:EOLhyphen"/>ken, and brought in to <hi>Liverpoole.</hi>
+               </item>
+               <item>28 A rich Prize comming from <hi>Rotterdam</hi> to<g ref="char:EOLhyphen"/>wards <hi>Scotland,</hi> wherein were 20 Officers <hi>Engliſh</hi> and <hi>Dutch,</hi> taken the 11th. of <hi>April</hi> on the borders of <hi>Scotland,</hi> by the Preſident Friggot.</item>
+               <item>29 A <hi>French</hi> Veſſel taken with ten guns:</item>
+               <item>30 A Veſſel of the Earl of <hi>Derbies</hi> taken by Cap<g ref="char:EOLhyphen"/>taine <hi>Seemar</hi> neare <hi>Do<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>glow</hi> by the <hi>Iſle of Man,</hi> and brought to <hi>Bewmorris.</hi>
+               </item>
+               <item>31 A <hi>French</hi> ſhip of ten Guns, and five Murde<g ref="char:EOLhyphen"/>rers taken on the Northern coaſts by Captain <hi>Cole<g ref="char:EOLhyphen"/>man,</hi> and Capt. <hi>Cheaney.</hi>
+               </item>
+               <item>32 The <hi>Scots</hi> Alarmed on <hi>Fife</hi> ſide, <hi>April</hi> 17. by a ſmall fleet manned, under command of Captain <hi>Reynols</hi> from <hi>Leeth,</hi> by Orders from Generall <hi>Deane.</hi>
+               </item>
+               <item>33 <hi>Cunie Iſlannds</hi> near <hi>Scilly</hi> taken by Generall <hi>Blague.</hi>
+               </item>
+               <item>34 <hi>Brice Iſland</hi> taken by him alſo.</item>
+               <item>35 <hi>Treſco Iſland</hi> with the Fort taken by ſtorme, and 25 peece of Ordnance, and 166 Priſoners, 20 flaine, and 40 drowned</item>
+               <item>36 <hi>Grimſly</hi> the Harbour at <hi>Scilly</hi> taken by Gen. <hi>Blague,</hi> with two ſhips therein, and 9 Guns.</item>
+               <item>37 A <hi>London</hi> ſhip of 70 Tuns reſcued from a <hi>Jerſie</hi> man of War, on the Weſtern coaſts,</item>
+               <item>38 A Veſſel of <hi>Scilly</hi> comming from <hi>France:</hi> was chaſed and taken by Capt. <hi>Pack,</hi> commander of the <hi>Amity</hi> Friggot, with 20 tun of wine.</item>
+               <item>39 Captaine <hi>Coleman</hi> took a <hi>French man</hi> with 15 Guns, 48 Priſoners, loaden with proviſions, and 40 Tun of Cask with water going for <hi>Green-land,</hi> brought in to <hi>New-caſtle.</hi>
+               </item>
+               <item>40 A Veſſel of 20 Tuns burden laden with Salt and Coales taken by Capt. <hi>Seaman,</hi> who commands the <hi>Fox</hi> Friggot, trading between <hi>Scotland, Ireland,</hi> and the <hi>Iſle of Man.</hi>
+               </item>
+               <item>41 Capt. <hi>Michael Peck</hi> with the <hi>Amity</hi> Frigot tooke a veſſel, and ſome priſoners of quality ſailing from <hi>Scilly</hi> to fly to <hi>France.</hi>
+               </item>
+               <item>42 A ſhip with 26 guns taken near <hi>Scilly.</hi>
+               </item>
+               <item>43 A ſhip with 16 guns taken near <hi>Scilly.</hi>
+               </item>
+               <item>44 A veſſel belonging to <hi>Scilly</hi> taken going to <hi>France,</hi> by Capt. <hi>Pack.</hi>
+               </item>
+               <item>45 On the firſt of <hi>May,</hi> two tun of Beere, ſome quantity of Beefe, two caskes of Bread, and one barrel of Peaſe, taken in a veſſel at <hi>Humber.</hi>
+               </item>
+               <item>46 Twelve Packets, qts. 20 Kers. 18 ſingle do<g ref="char:EOLhyphen"/>zens, 3 baggs of horns, 50 Ferkins of Butter, 25 duds of Iron, 200l. of dreſt Flax, three quarters of an hundred weight of Sugar, two Hogſ-heads of Sack, and three Pipes of red Wine taken in ſome veſſels at <hi>Humber:</hi>
+               </item>
+               <item>47 Two packs of cloth, qts, 24 Kerdeyes, and ten Dozen, and one, alſo 20 peeces of Lead taken in a veſſel of <hi>Hull.</hi>
+               </item>
+               <item>48 On the third of <hi>May</hi> a Prize was brought in<g ref="char:EOLhyphen"/>to <hi>Leeth</hi> in <hi>Scotland,</hi> with 100 tunnes of Wheat be<g ref="char:EOLhyphen"/>longing to the <hi>Scots</hi> King.</item>
+               <item>49 <hi>May</hi> 5. Capt. <hi>Anthony Young</hi> re-tooke near <hi>Barwick</hi> an Hoy of <hi>Rocheſter</hi> from a <hi>Scots</hi> man of War of 12 Guns, in which was <hi>Mr. Theodore Jen<g ref="char:EOLhyphen"/>nings,</hi> meſſenger to the Lords Embaſſadour then in <hi>Holland,</hi> and Col. <hi>Waſhburne.</hi>
+               </item>
+               <item>50 The <hi>Aſſiſtance</hi> Frigot brought in a Prize to <hi>Leeth,</hi> with 100 tuns of wheat, that the <hi>Scots</hi> Kings ſhips had taken from the <hi>Dutch,</hi> and were ſending it to <hi>Aberdeen.</hi>
+               </item>
+               <item>51 Two Frigots belonging to <hi>Scilly</hi> were in purſuit caſt away, and divers of the Sea-men that got aſhore came in to Gen. <hi>Blague.</hi>
+               </item>
+               <item>52 Two Veſſels taken near <hi>Long-rode.</hi>
+               </item>
+               <item>53 A Veſſel with ſix notable Moſſe Troopers that had been in <hi>Ireland,</hi> was brought into <hi>Liver<g ref="char:EOLhyphen"/>poole.</hi>
+               </item>
+               <item>54 Capt. <hi>Bradſhaw</hi> a notorious Pirate taken by Capt. <hi>Sherwin</hi> neare the <hi>Iſle of Man,</hi> who with his men were brought priſoners to <hi>Liverpoole.</hi>
+               </item>
+               <item>55 Capt. <hi>Beck</hi> with the <hi>Merchant Adventure,</hi> with 54 men, beat two great ſhips, the one with 24 Guns, the other 34 Guns near the Downes, with 500 men in them.</item>
+               <item>56 Capt. <hi>Reeves</hi> with the <hi>Elizabeth</hi> Frigot took a <hi>French</hi> Veſſel near the Iſle of St. <hi>Nichelas</hi> Iſland.</item>
+               <item>57 A Veſſel taken with 60 good Horſe on the Weſterne coaſts going to <hi>Barbadoes,</hi> ſent to <hi>Plim<g ref="char:EOLhyphen"/>moth</hi> by Gen. <hi>Blake.</hi>
+               </item>
+               <item>58 Two ſhips taken in the Straights, one laden with Silk, the other with Sugar.</item>
+               <item>59 A French man of War taken with ſix peece of Ordnance belonging to <hi>Deep.</hi>
+               </item>
+               <item>60. Capt. <hi>Coleman</hi> commander of the <hi>Fortune,</hi> fought with three of the <hi>Scots</hi> Kings Veſſels, and tooke one of them, and brought it into <hi>New-caſtle.</hi>
+               </item>
+               <item>61 An <hi>Iriſh</hi> Veſſel called St. <hi>Patrick</hi> taken prize with 20 baggs of pockets, of 2900 l. weight, and <hi>Iriſh</hi> Wooll, 6000 Hides, and other commodities, taken by the Swift-ſure.</item>
+               <item>62 Another Iriſh ſhip taken by the Swift-ſure.</item>
+               <item>63 A French Veſſel taken by the Swift-ſure alſo with 21 men, two ſmall guns and ſome Muskets aboard her,</item>
+               <item>64 Two ſhips taken with Horſe and other ſup<g ref="char:EOLhyphen"/>plies going for Scotland brought into Yarmouth by Capt. <hi>Wadſworth</hi> the 23 May.</item>
+               <item>65 Mary Iſland, and the Iſland of Agads: and all the remainders of Scilly Iſlands, and Forts ſur<g ref="char:EOLhyphen"/>rendred to Gen. <hi>Blake</hi> with 50 Barrels of Powder, Match proportionable, aboundance of great ſhot, and all their Ordnance.</item>
+               <item>66 A ſhip taken by Cap. Hall of 300 Tuns and 22 guns, laden with Wheat and Ryce.</item>
+               <item>67 A ſhip taken by Cap. <hi>Hall</hi> of 140 Tuns, with 16 Guns, laden with ſilke, Grogarums, Skins, Wool, and other commodities.</item>
+               <item>68 Severall ſhips preſerved on the coaſts of Spaine.</item>
+               <item>69 A French Veſſel taken on the Northern coaſts by Cap. Redgate.</item>
+               <item>70 June 1. the veſſell of a rich Prize retaken by Cap. <hi>Redgate,</hi> from an Iriſh man of War, who hard<g ref="char:EOLhyphen"/>ly eſcaped, and the veſſell taken was of 350 Tuns, laden with wheat, Sturgion, Pitch, Tarre, Bacon, Spaniſh-Wool, feathers, Canvaſſe, and other com<g ref="char:EOLhyphen"/>modities.</item>
+               <item>71 Cap. <hi>Reynolds,</hi> by ſhips fetched away ſome booty from the Scots on Fife ſide, divers ſheep and ſome barrels of Butter.</item>
+               <item>72 The Yarmouth Fiſhermen releived by Capt. <hi>King,</hi> and the Enemys man of War beaten off.</item>
+               <item>73 Cap. <hi>Vacy</hi> took a Scots veſſel paſſing towards Ireland, and brought it to Liverpoole.</item>
+               <item>74 A Veſſel retaken, and brought into Briſtol. Al<g ref="char:EOLhyphen"/>ſo a French veſſell taken with ſheep, Porke, Bisket, and mony intending to have releived Scilly.</item>
+               <item>75 A Veſſel taken by Cap. <hi>Celeman,</hi> bound for France,</item>
+               <item>76 Two Prizes taken by Capt. <hi>Tackwell</hi> on the coaſts of France, laden with Sugar, Brazil, Tobacco, and other merchandizes.</item>
+               <item>77 A prize taken on the beginning of July on the coaſts of France, brought in by Cap. <hi>Green.</hi>
+               </item>
+               <item>78 Three French Fiſher-mens Veſſells taken near Jerſey.</item>
+               <item>79 A veſſell taken prize by Capt <hi>Hurly,</hi> and brought into Portſmouth of 100 Tuns burden, laden with Roſin, Pitch, and other commodities,</item>
+               <item>80 A veſſell taken by Cap. <hi>Hurley,</hi> brought into Portſmouth of 300 Tuns, laden with Wool, Skins, and other commodities.</item>
+               <item>81 A veſſell taken by Cap. <hi>Green,</hi> laden with Ro<g ref="char:EOLhyphen"/>ſin and other wares, taken on the Weſtern coaſts.</item>
+               <item>82 A veſſel taken by Cap. <hi>Green,</hi> laden with pots and other iron ware.</item>
+               <item>83 A ſhip of 400 Tun laden with oyle, and o<g ref="char:EOLhyphen"/>ther Merchandizes, taken and ſent into Portſ<g ref="char:EOLhyphen"/>mouth.</item>
+               <item>84 Col. <hi>Overton</hi> tranſported over to Fife ſide in Scotland, with 1400 Foot, and ſome Horſe and Dragoons, took the North-Ferry.</item>
+               <item>85 Maj. Gen, <hi>Lambert</hi> tranſported over to Fife ſide, defeated Sir <hi>John Brown,</hi> which was the foun<g ref="char:EOLhyphen"/>dation of all thoſe ſucceeding Victories, which utterly deſtroyed all the Scots Kings Forces in both Nations.</item>
+               <item>86 In the beginning of <hi>Auguſt</hi> a Veſſell taken on the coaſts of <hi>Ireland.</hi>
+               </item>
+               <item>87 A Veſſell taken on the Northerne coaſts by Cap. <hi>Coppin,</hi> brought into <hi>Yarmouth.</hi>
+               </item>
+               <item>88 A rich ſhip reſcued from the enemy on the Northern coaſts by Cap, <hi>Coppin.</hi>
+               </item>
+               <item>89 The Seamen of the <hi>Paradox</hi> Frigot got off from neer <hi>Flamburgh Head,</hi> after their Captain and Purſer were both killed by the enemy.</item>
+               <item>90 In <hi>Septemb.</hi> 532 <hi>li.</hi> of Scots yarn &amp;c. was taken with the <hi>Thomas</hi> Veſſell at <hi>Yarmouth.</hi>
+               </item>
+               <item>91 A Veſſel taken belonging to the Iſle of <hi>Man</hi> by Cap. Young.</item>
+               <item>92 An Iriſh veſſel taken on the coaſts of <hi>Ireland.</hi>
+               </item>
+               <item>93 A French man of Warre beaten.</item>
+               <item>94 In <hi>Octob.</hi> 3 French ſhips beaten on the We<g ref="char:EOLhyphen"/>ſtern coaſts.</item>
+               <item>95 A glorious Victory obtained by Gen. <hi>Blake</hi> in ſurprizall of the Iſle of <hi>Jerſey.</hi>
+               </item>
+               <item>96 The Fort at <hi>Sentwon</hi> Bay taken</item>
+               <item>97 St. <hi>Owens</hi> Mannor taken</item>
+               <item>98 <hi>Groneſſe</hi> Caſtle taken</item>
+               <item>99 Caſtle <hi>de Leke</hi> taken</item>
+               <item>100 The Fort at <hi>Bowley</hi> taken</item>
+               <item>101 St. <hi>Albans</hi> taken</item>
+               <item>102 St. <hi>Jermans</hi> taken</item>
+               <item>103 St. <hi>Hillary</hi> being the chief Town, taken.</item>
+               <item>104 <hi>Brelades</hi> Bay taken.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Letter from aboard the</hi> Entrance, <hi>riding off Mount</hi> Orgueil <hi>Caſtle in</hi> Jerſey, 27 <hi>Octob.</hi> 1651.</head>
+            <p>THE Lord hath been pleaſed to deliver into our hands, the Iſle of <hi>Ierſey</hi> on the 22 inſtant between 11 &amp; 12 of the clock in the night by ftorm.</p>
+            <p>Tueſday the 22 about two in the morning the Com<g ref="char:EOLhyphen"/>miſſion-Officers met aboard this ſhip, riding in St. <hi>Bre<g ref="char:EOLhyphen"/>lades</hi> Bay, and having ſought God for a bleſſing upon theirundertakings, it was upon conſultation agreed, that by their Boats and ſtrength an attempt ſhould be made upon the Enemy in <hi>Sentwons</hi> Bay, as the moſt con<g ref="char:EOLhyphen"/>venient place to land in. Accordingly Gen: <hi>Blake</hi> or<g ref="char:EOLhyphen"/>dered the open boats and Veſſels that carryed the Foot and Horſe to bee manned out of our owne ſhips, thoſe from <hi>England</hi> refuſing to run their Veſſels aground, The weather admitting no delay, the Foot were embarqued and forthwith ſtood for <hi>Sentwons,</hi> but before we could hale cloſe to ſhore, the Tide was ſo far ſpent, that it was conceived not rationall to fall on then, whereupon the boats lay by; and the ſhips, viz. the <hi>Elizabeth, Phae<g ref="char:EOLhyphen"/>nix, Battery ſhip,</hi> and <hi>Eagle,</hi> began to play upon the Forts with great guns, and ſo continued near four hours, continually pelting, inſomuch that they did execution both on horſe and foot, and prevented their getting in<g ref="char:EOLhyphen"/>to bodies. The Evening proving fair, and the wind freſh from off the Sea, all the Captains of the Fleet took their boats, we manned and headed the Forlorn which was led by Cap. <hi>Dover,</hi> which gave them ſome incou<g ref="char:EOLhyphen"/>ragement more than ordinary. A party of the Enemies horſe charged to the very heads of our boats, and for neer an hour there was a fierce encounter on both ſides, till Col. <hi>Hayne</hi> and the reſt could get in to their aſſiſt<g ref="char:EOLhyphen"/>ance, who for to give them all poſſible and ſpeedy re<g ref="char:EOLhyphen"/>lief leapt into the water up to the waſte, and ſome high<g ref="char:EOLhyphen"/>er: Whereupon the Enemy began to retreat, our for<g ref="char:EOLhyphen"/>ces thereby gaining ground, till after 3 or 4 volleys of ſhot the enemy ran, inſomuch that we became maſters of their Forts, all along the Bay.</p>
+            <p>What the enemies loſſe might be, we are not cer<g ref="char:EOLhyphen"/>tain, but there were wounded on our ſide about 16. and 4 kild: The Lieutenant of the Forlorn, and one more, are ſince dead of their wounds. Cap. <hi>Dover</hi> was ſtruck down with a bullet, but recovered himſelf again. One thing I forgot to acquaint you with, that when wee weighed from <hi>Brellades</hi> Bay, the Generall to amuſe and diſtract the enemy, left a part of the Fleet there, which by their Guns and ſhooting in their boats did ſo alarm them, that the Paſtor of a Village in that Bay with his flock and the Forces ran away to <hi>Eliz<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>beth</hi> caſtle, wher their Governour <hi>Carteret</hi> is. Some priſoners report that <hi>Carteret</hi> was himſelf in the action, but fled as ſoon as any. The next morning Col. <hi>Hayne</hi> ſummoned the Tower and Caſtle of St. <hi>Albans,</hi> where were 20 Guns, much Ammunition, Proviſion, &amp;c. and on a ſudden it was quitted unexpectedly, thoſe in it betaking them<g ref="char:EOLhyphen"/>ſelves to the main Caſtle, where (it is reported) all the chief Iſlanders and goods are lodged; whereof we doubt not in a ſhort time to give a very ſatisfactory account. Wee are now before the Caſtle called <hi>Mount Orgueil,</hi> and ſo ſoon as we have done, it is poſſible the General will make a trip to <hi>Guernſey,</hi> and ſummon <hi>Corn<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t-Ca<g ref="char:EOLhyphen"/>ſtle,</hi> of which wee have the more hope, they having ſmall hope of relief.</p>
+            <closer>
+               <dateline>
+                  <hi>From aboard the</hi> Entrance, <hi>riding off Mount</hi> Or<g ref="char:EOLhyphen"/>gueil <hi>Caſtle in</hi> Jerſey <date>27 Octob. 1651.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Robert Ibbitſon.</hi> 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
